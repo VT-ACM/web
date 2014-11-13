@@ -39,18 +39,18 @@ docpadConfig = {
 
             treasurer : {
                 name: "Hunter Morgan",
-                role: "Treasure Hunter",
+                role: "Treasurer",
                 email: "automaticgiant@acm.vt.edu",
                 picture: "/images/officers/hunter_morgan.jpg",
-                bio: "We call him the treasuridentmaster"
+                bio: ""
             },
 
-            secretary : {
-                name: "Google Docs",
-                role: "Secretary",
+            webmaster : {
+                name: "",
+                role: "Webmaster",
                 email: "",
-                picture: "/images/officers/google_logo.png",
-                bio: "Questionable robot"
+                picture: "/images/officers/officer_placeholder.jpg",
+                bio: "Looking for replacement"
             },
 
             /*event_coordinator : {
@@ -61,12 +61,12 @@ docpadConfig = {
                 bio: "Seeking new student!"
             },*/
 
-            webmaster : {
-                name: "Tyler Collins",
-                role: "Webmaster",
-                email: "tylerc94@vt.edu",
-                picture: "/images/officers/tyler_collins.png",
-                bio: "A mysterious figure"
+            event_coordinator : {
+                name: "Ethan Mattice",
+                role: "Event Coordinator",
+                email: "ephan@vt.edu",
+                picture: "/images/officers/ethan_mattice.png",
+                bio: ""
             }
         },
 

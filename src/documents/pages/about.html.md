@@ -5,8 +5,6 @@ tags: ['page', 'about']
 pageOrder: 2
 ---
 
-Hello
-
 The Association for Computing Machinery (ACM) is widely recognized as a 
 premier organization for computing professionals and students. Since 
 1947, the national chapter has provided resources and backed research and 
@@ -32,4 +30,3 @@ and stay involved with the Virginia Tech Chapter of the ACM which include
 attending or giving a Tech Talk or Students Teach Students presentation, 
 getting involved with one or more of our ACM Student Initiatives, and several 
 others.
-

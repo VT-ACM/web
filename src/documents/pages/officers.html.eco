@@ -2,7 +2,7 @@
 title: Officers
 layout: default
 tags: ['page', 'officers']
-pageOrder: 4
+pageOrder: 3
 ---
 
 <% for type, officer of @officers: %>
