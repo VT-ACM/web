@@ -24,18 +24,18 @@ docpadConfig = {
             president : {
                 name: "Stu Harvey",
                 role: "President",
-                email: "stu@acm.vt.edu",
+                email: "stu@vt.edu",
                 picture: "/images/officers/stu_harvey.jpg",
                 bio: ""
             },
 
-            vice_president : {
-                name: "Ryan Whitcomb",
-                role: "Vice President",
-                email: "rwhit94@vt.edu",
-                picture: "/images/officers/ryan_whitcomb.png",
-                bio: ""
-            },
+            // vice_president : {
+            //     name: "Ryan Whitcomb",
+            //     role: "Vice President",
+            //     email: "rwhit94@vt.edu",
+            //     picture: "/images/officers/ryan_whitcomb.png",
+            //     bio: ""
+            // },
 
             treasurer : {
                 name: "Hunter Morgan",
@@ -45,13 +45,13 @@ docpadConfig = {
                 bio: ""
             },
 
-            webmaster : {
-                name: "",
-                role: "Webmaster",
-                email: "",
-                picture: "/images/officers/officer_placeholder.jpg",
-                bio: "Looking for replacement"
-            },
+            // webmaster : {
+            //     name: "",
+            //     role: "Webmaster",
+            //     email: "",
+            //     picture: "/images/officers/officer_placeholder.jpg",
+            //     bio: "Looking for replacement"
+            // },
 
             /*event_coordinator : {
                 name: "",
