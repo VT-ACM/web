@@ -13,10 +13,12 @@ Here's how to get up and running to make changes to the site locally:
 1. Install [Node.js](https://nodejs.org/en/)
 2. Install [git](git-scm.com)
 3. Now run the following
-     
-     npm install -g docpad
-     git clone https://github.com/VT-ACM/web.git && cd web
-     npm install
+
+```bash     
+npm install -g docpad
+git clone https://github.com/VT-ACM/web.git && cd web
+npm install
+```
 
 If that worked, you should be ready to run the website locally:
      
